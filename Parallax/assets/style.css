@@ -1,0 +1,41 @@
+section.parallax {
+  background-color: slategrey;
+  color: white;
+  text-align: center;
+  padding: 80px 0px;
+  font-size: 50px;
+}
+
+div.secondtitle {
+  background-image: url(https://www.architect-us.com/blog/wp-content/uploads/2019/06/chris-brignola-n7n-nkadHRM-unsplash-1024x683.jpg);
+  background-attachment: fixed;
+  height: 300px;
+  color: white;
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+p.name {
+  font-size: 30px;
+  color: grey;
+  margin: 40px 0px;
+}
+div.thridtitle {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiOoK99jBWF69aa74-BYMoMWEPfJJIVBvQQ&s);
+  background-attachment: fixed;
+  font-size: 60px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  margin-top: 50px;
+}
+section.alllorem {
+  margin: 0px 100px;
+}
+section.all {
+  height: 350vh;
+}
